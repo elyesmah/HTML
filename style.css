@@ -1,0 +1,21 @@
+
+body {
+background: burlywood;
+}
+
+h1:hover {color: mediumvioletred;}
+
+#index-link:hover {
+
+    color : navy
+}
+
+#index-link:visited {
+
+    color:rgb(165, 87, 42)  
+}
+
+ul > li {
+
+    color: darkgreen;
+}
